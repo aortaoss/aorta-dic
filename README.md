@@ -1,18 +1,18 @@
 # aorta-dic
 
-## aortaoss eq aorta + OSS
+## AORTA-OSS is aorta + OSS
 
 - aortaoss aims to make all data flow flexibly.
 - aortaoss aims for making a robust data system never break.
 - aortaoss aims for simplicity as ultimate strength.
 
-## aortaoss has two groups
+## AORTA-OSS has two groups
 - aortaoss-mafia
   - A group that creates and contributes to a powerful source anyone wants.
 - stardba
   - A group that freely shares their knowledge and makes an effort to grow together.
 
-## What aotaoss will achieve
+## What AORTA-OSS will achieve
 - aorta-manager
 - aorta-hub
 - aorta-replicator
